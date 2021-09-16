@@ -28,4 +28,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我對這門課的期望？
 
-NULL
+我希望我能夠學會基本的統計方法，r language的基本語法。希望最終可以獨力完成一份專案！
